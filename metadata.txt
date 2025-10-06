@@ -1,0 +1,13 @@
+[general]
+name=Fix Invalid Geometry (Save to File)
+description=Perbaiki geometri invalid dan simpan ke file baru (GeoPackage, Shapefile, dll).
+version=1.1
+qgisMinimumVersion=3.16
+qgisMaximumVersion=3.99
+author=Sugiman with AI
+email=supersugiman@gmail.com
+about=Memperbaiki vertex duplikat, self-intersecting ring, dan geometri invalid lainnya. Hasil disimpan ke file baru.
+category=Vector
+hasProcessingProvider=no
+experimental=False
+deprecated=False
